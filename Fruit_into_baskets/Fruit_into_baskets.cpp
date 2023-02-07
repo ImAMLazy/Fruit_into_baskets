@@ -14,7 +14,6 @@ bool test(std::vector<int> in, int out)
 	{
 		std::cout << std::endl;
 		std::cout << "Error!" << std::endl;
-		//std::cout << "Input: " << in << std::endl;
 		std::cout << "Output from func: " << funcOutput << std::endl;
 		std::cout << "Output: " << out << std::endl;
 		std::cout << std::endl;
